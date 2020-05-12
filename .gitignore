@@ -1,3 +1,9 @@
+# Ignore VScode config folder
+.vscode
+
+# Ignore Bootcamp course folder
+python/00-bootcamp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
