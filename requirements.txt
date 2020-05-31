@@ -31,6 +31,7 @@ https://repo.anaconda.com/pkgs/main/linux-64/ipython_genutils-0.2.0-py37_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/parso-0.7.0-py_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/pickleshare-0.7.5-py37_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/ptyprocess-0.6.0-py37_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/pytz-2020.1-py_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/pyzmq-18.1.1-py37he6710b0_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/six-1.14.0-py37_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/tornado-6.0.4-py37h7b6447c_1.conda
@@ -54,3 +55,4 @@ https://repo.anaconda.com/pkgs/main/linux-64/ipykernel-5.1.4-py37h39e3cac_0.cond
 https://repo.anaconda.com/pkgs/main/linux-64/mkl_fft-1.0.15-py37ha843d7b_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/mkl_random-1.1.0-py37hd6b4f25_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/numpy-1.18.1-py37h4f9e942_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/pandas-1.0.3-py37h0573a6f_0.conda
