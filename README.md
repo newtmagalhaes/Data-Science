@@ -6,7 +6,13 @@ Repositório desenvolvido durante o curso de _Python for Data Science and Machin
 
 ## :bookmark_tabs: Sumário
 
-1. [:bookmark: Curso intensivo de Python](./python/cursoIntensivo)
+1. [:bookmark: Curso intensivo de Python](./python/01-crash-course)
+
+2. [:bookmark: Análise de dados com Pyhton](./python/02-data-analysis)
+
+## :snake: Ambiente de desenvolvimento
+
+Os pacotes instalados até o momento estão listados em [requirements.txt](./requirements.txt).
 
 ## :pencil: Versionamento
 
@@ -14,9 +20,9 @@ Eu uso [Git <img src="https://raw.github.com/newtmagalhaes/Aprendendo-Linguagens
 
 ## :octocat: Autor
 
-|                                   [@newtmagalhaes](https://github.com/newtmagalhaes)                                    |
-| :---------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://avatars1.githubusercontent.com/u/55257893?s=460&v=4" width="100">](https://github.com/newtmagalhaes) |
+|                                                @newtmagalhaes                                                 |
+| :-----------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars1.githubusercontent.com/u/55257893" width="100">](https://github.com/newtmagalhaes) |
 
 ## :scroll: Licença
 
