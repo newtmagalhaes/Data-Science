@@ -24,7 +24,7 @@ https://repo.anaconda.com/pkgs/main/linux-64/zeromq-4.3.1-he6710b0_3.conda
 https://repo.anaconda.com/pkgs/main/linux-64/sqlite-3.31.1-h62c20be_1.conda
 https://repo.anaconda.com/pkgs/main/linux-64/python-3.7.7-hcff3b4d_5.conda
 https://repo.anaconda.com/pkgs/main/linux-64/backcall-0.1.0-py37_0.conda
-https://repo.anaconda.com/pkgs/main/linux-64/certifi-2020.4.5.1-py37_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/certifi-2020.4.5.2-py37_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/decorator-4.4.2-py_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/entrypoints-0.3-py37_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/ipython_genutils-0.2.0-py37_0.conda
@@ -55,4 +55,4 @@ https://repo.anaconda.com/pkgs/main/linux-64/ipykernel-5.1.4-py37h39e3cac_0.cond
 https://repo.anaconda.com/pkgs/main/linux-64/mkl_fft-1.0.15-py37ha843d7b_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/mkl_random-1.1.0-py37hd6b4f25_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/numpy-1.18.1-py37h4f9e942_0.conda
-https://repo.anaconda.com/pkgs/main/linux-64/pandas-1.0.3-py37h0573a6f_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/pandas-1.0.4-py37h0573a6f_0.conda
